@@ -1,7 +1,7 @@
 # mqtt_mongo_python
 Tools for MQTT and Mongo-DB
 
-A set of simple Tooöls around MQTT (Mosquitto) and MongoDB:
+A set of simple Tools around MQTT (Mosquitto) and MongoDB:
 
 ### mqtt_to_mongo.py
 Loop-forever-Skript that subscribes to all MQTT Topics and posts any message to Mongo-DB
