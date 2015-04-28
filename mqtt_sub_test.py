@@ -1,4 +1,5 @@
 #!/bin/python
+#Simple Subscription Skript. Subscribes all Topics and Prints out all messages
 
 import time
 import sys

@@ -1,4 +1,13 @@
 #!/bin/python
+# Simple Python-Flask Script to Display all content from Mongo DB on a web page
+# Requires
+# - flask
+# - flask-bootstrap
+# - python-pymongo
+# - flask.ext.pymongo
+# - python-pymongo-gridfs
+
+
 from flask import Flask
 from flask.ext.pymongo import PyMongo
 from flask import render_template

@@ -1,5 +1,5 @@
 #!/bin/python
-# Test Insert Data to Mongo
+# List Mongo Collection
 
 from pymongo import MongoClient
 import time

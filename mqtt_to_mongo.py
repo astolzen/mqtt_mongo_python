@@ -1,4 +1,8 @@
 #!/bin/python
+# Subscribes to given Topics on MQTT and Posts Messages to Mongo
+# Requires:
+# -  paho.mqtt.client
+# -  python-pymongo
 
 import time
 import sys
